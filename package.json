@@ -56,6 +56,6 @@
     "testem": "^0.9.11"
   },
   "dependencies": {
-    "switch-path": "^1.1.3"
+    "switch-path": "sdebaun/switch-path"
   }
 }
